@@ -1,5 +1,5 @@
 import 'package:flutter_test/flutter_test.dart';
-import 'package:praktikum_mobile_pro/main.dart';
+import 'package:student_life_assistant/main.dart';
 
 void main() {
   testWidgets('menampilkan sambutan', (tester) async {
